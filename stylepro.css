@@ -1,0 +1,30 @@
+.site-section-title h2 {
+  text-transform: uppercase;
+  color: #000;
+  font-weight: 700;
+  font-size: 2rem;
+  letter-spacing: .1em; }
+.site-section{
+margin-top:60px;
+}
+.service {
+  display: block; }
+  
+  .service .service-heading {
+    color: #000;
+    font-size: 1.2rem;
+    margin-bottom: 1rem; }
+  .service p {
+    color: rgba(0, 0, 0, 0.6); }
+a{
+list-style-type:none;}
+
+.fas.fa-chart-line {
+color: #1f3c88;
+}
+.far.fa-check-square{
+color:#1f3c88;}
+
+.fas.fa-hands-helping{
+color:#1f3c88;}
+
